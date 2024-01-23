@@ -1,1 +1,1 @@
-This repository showcases a collection of machine learning and deep learning projects. From predictive modeling to neural network applications, each project highlights my expertise in leveraging advanced algorithms for solving real-world problems. Explore the intersection of data science and innovation through my hands-on projects."
+
